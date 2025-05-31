@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ⚡
 
 <!--
 **Sol1233196304/Sol1233196304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
