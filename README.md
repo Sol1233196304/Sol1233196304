@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🤔 I'm studying Graphic Information Technology. 
-⚡ I draw cartoon on my free time. 
-👯 I play ukelele 
+🤔 I'm studying Graphic Information Technology. <br>
+⚡ I draw cartoon on my free time. <br>
+👯 I play ukelele. 
